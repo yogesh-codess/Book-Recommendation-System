@@ -1,5 +1,7 @@
+streamlit>=1.40.0
 pandas
-scikit-learn
-scipy
-streamlit
 numpy
+scikit-learn
+altair
+requests
+# ... any other libraries your app uses
